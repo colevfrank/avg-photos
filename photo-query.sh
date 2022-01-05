@@ -1,4 +1,6 @@
 # scripting here
+# osxphotos documentation
+# https://github.com/RhetTbull/osxphotos/blob/master/README.md
 
 osxphotos export ~/Pictures/Photos\ Library.photoslibrary --from-date "2022-01-01" --to-date "2022-01-02"
 
